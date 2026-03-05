@@ -1,0 +1,1 @@
+Pathfinding di Unity adalah sistem kecerdasan buatan (AI) untuk merencanakan rute terpendek atau terbaik bagi objek (karakter/NPC) agar dapat bergerak dari satu titik ke titik tujuan lain sambil menghindari rintangan
